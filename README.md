@@ -1,38 +1,68 @@
-# Hi 👋, I'm Sachidananda Mohanta
+# Hi, I'm Sachidananda Mohanta 👋
 
-### A dedicated data analyst from Bengaluru focused on transforming raw data into actionable insights
+A Bengaluru-based data analyst focused on transforming raw data into clear, actionable insights. I work across Python, SQL, and Power BI to build analytical solutions that support real business decisions. 📊
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=smohanta77&label=Profile views&color=0e75b6&style=flat" alt="smohanta77" /> </p>
-
-- 🌱 I'm currently learning **Polars**
-
-- 👯 I'm looking to collaborate on **Real-world analytics problems in finance, e-commerce, and product performance using Python, SQL, and Power BI.
-**
-
-- 🤝 I'm looking for help with **I'm looking for help with strengthening my advanced SQL logic, Python data workflows, and complex DAX calculations.
-**
-
-- 💬 Ask me about **SQL, Python, Power BI, Excel**
-
-- 📫 How to reach me **sachidanandamohanta5@gmail.com**
-
-- ⚡ Fun fact **My data pipelines run perfectly... until someone is watching.**
-
-- 👨‍💻 All of my projects are available at **[https://github.com/smohanta77](https://github.com/smohanta77)**
-
-<h3 align="left">Connect with me:</h3>
+## Tech Stack  
 <p align="left">
-<a href="https://github.com/smohanta77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="smohanta77" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sachidananda7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sachidananda7/" height="30" width="40" /></a>
-<a href="https://hackerrank.com/@sachidanandamoh2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sachidanandamoh2" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-005C98?style=for-the-badge&logo=plotly&logoColor=white" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a></p>
+## About Me 💡
+I specialize in turning complex business problems into structured analytical workflows. My focus areas include data modeling, dashboard design, storytelling with data, and translating numbers into practical business outcomes.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=smohanta77&show_icons=true&locale=en&layout=compact" alt="smohanta77" /></p>
+## What I Work On 🔧
+- Data analysis and reporting for business performance  
+- Power BI dashboards for sales, service, and product analytics  
+- SQL-based data modeling, queries, and ETL workflows  
+- Python for automation, EDA, and forecasting  
+- Analytics projects in finance, product, and e-commerce  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smohanta77&show_icons=true&locale=en" alt="smohanta77" /></p>
+## I'm Looking to Collaborate On 🤝
+- Real-world analytics projects in finance and e-commerce  
+- Power BI dashboards, DAX modeling, and BI systems  
+- Python-based automation and data workflows  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smohanta77&" alt="smohanta77" /></p>
+## I'm Looking for Help With 📈
+- Advanced SQL logic and query optimization  
+- Real datasets for case studies and portfolio projects  
+- Scalable data models and end-to-end analytics architectures  
 
+## Ask Me About ❓
+- Structuring business problems into KPIs and analytical models  
+- Designing dashboards that drive decisions, not just visualizations  
+- Breaking down complex data issues into clear, repeatable workflows  
+
+## Fun Fact 😄
+I whisper “please work” to my code. Sometimes it listens.
+
+## Featured Projects 🚀
+- **Sales & Service Performance Dashboard**  
+  End-to-end Power BI solution built using SQL, Excel, and DAX.
+
+- **Investment Analysis AI Agent**  
+  Python-driven tool for forecasting monthly returns across RD, SIPs, and mutual funds.
+
+- **E-commerce Analytics System**  
+  Product-level performance, customer insights, and revenue modeling.
+
+## GitHub Stats 📊
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=smohanta77&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=smohanta77&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=smohanta77&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=smohanta77&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Connect With Me 🌐
+- Email: sachidanandamohanta5@gmail.com
+- LinkedIn: https://www.linkedin.com/in/sachidananda7/
