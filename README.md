@@ -47,8 +47,8 @@ I whisper “please work” to my code. Sometimes it listens.
 - **Sales & Service Performance Dashboard**  
   End-to-end Power BI solution built using SQL, Excel, and DAX.
 
-- **Investment Analysis AI Agent**  
-  Python-driven tool for forecasting monthly returns across RD, SIPs, and mutual funds.
+- **Customer Churn Forecasting System**  
+  Forecasts churn probability for each customer and quantifies revenue at risk using behavioral and transaction data.
 
 - **E-commerce Analytics System**  
   Product-level performance, customer insights, and revenue modeling.
